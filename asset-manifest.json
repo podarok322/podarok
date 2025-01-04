@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/podarok/static/css/main.829fda83.css",
-    "main.js": "/podarok/static/js/main.b09fbfd2.js",
+    "main.js": "/podarok/static/js/main.4f8f0e03.js",
     "index.html": "/podarok/index.html",
     "main.829fda83.css.map": "/podarok/static/css/main.829fda83.css.map",
-    "main.b09fbfd2.js.map": "/podarok/static/js/main.b09fbfd2.js.map"
+    "main.4f8f0e03.js.map": "/podarok/static/js/main.4f8f0e03.js.map"
   },
   "entrypoints": [
     "static/css/main.829fda83.css",
-    "static/js/main.b09fbfd2.js"
+    "static/js/main.4f8f0e03.js"
   ]
 }
